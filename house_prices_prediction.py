@@ -58,3 +58,6 @@ for col in object_cols:
     sns.barplot(x=list(y.index), y=y)
     index += 1
 
+    
+    .
+
